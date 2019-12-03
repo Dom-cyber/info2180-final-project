@@ -1,0 +1,44 @@
+header {
+  
+  background-color: black;
+  padding: 0.5px;
+  
+}
+
+h1 {
+  color:white;
+  font-size:23px;
+  text-align: center;
+}
+
+section {
+  float: left;
+  width: 20%;
+  height: 100%;
+  background: #ccc;
+  padding:20px;
+}
+
+article {
+  width: 867px;
+  float: left;
+  padding:25px;
+  height: 500px;
+  border-radius:9px;
+  background-color:#EDF4F5
+}
+
+input {
+  width:100px;
+  length: 150px;
+  padding: 12px 21px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  
+}
+
+input[type=submit]{
+  background-color:blue;
+  color: white;
+  border-radius: 9px;
+}
